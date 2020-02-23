@@ -1,0 +1,4 @@
+#Tue Nov 12 09:45:24 CST 2019
+base.0=/Users/mm/Desktop/School/Mobile App Dev/A6_P1_Houston_Morgan/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
